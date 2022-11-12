@@ -1,0 +1,17 @@
+{
+  "baseURL": "http://www.jerrybioinformatics.com",
+  "author": "Jerry Chen",
+  "description": "Jerry Chen - Bioinformatics Consulting",
+  "title": "Jerry Chen - Bioinformatics Consulting",
+  "language": "en",
+  "social": [
+    {
+      "title": "Resume",
+      "url": "https://drive.google.com/file/d/1f5kyVFtZxs_1tOoaZCFHJic2GF5T0LGh/view?usp=sharing"
+    },
+    {
+      "title": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jerry-chen-bioinformatics/"
+    }
+  ]
+}

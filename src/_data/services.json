@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Bioinformatics Pipelines",
+    "icon": "icon5.svg",
+    "content": "Tired of dealing with messy code and complex workflows? I can help build easy-to-use, scalable, reproducible pipelines so that you can turn your raw sequencing data into results, fast."
+  },
+  {
+    "title": "Cloud Infrastructure",
+    "icon": "icon2.svg",
+    "content": "I am an expert with AWS cloud services, and can setup, maintain and troubleshoot your AWS cloud infrastructure for bioinformatics, using the most efficient, cost-saving resources."
+  },
+  {
+    "title": "Data Analysis",
+    "icon": "icon7.svg",
+    "content": "Need help with finding significant mutations in your tumor samples, or discovering differentially expressed genes between your sample cohorts? I can help with sequencing QC, genome alignment, differential expression, gene ontology analysis, single cell analysis, variant calling and much more."
+  },
+  {
+    "title": "Genomic Databases",
+    "icon": "icon4.svg",
+    "content": "Need help building a gene expression, variant, or some other genomic database for your samples? With expertise in relational (SQL) and non-relational (NoSQL) databases, I can design your tables and schema, and write automated scripts to handle database import and management of all of your data."
+  }
+]
