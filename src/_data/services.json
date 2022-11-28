@@ -10,13 +10,13 @@
     "content": "I am an expert with AWS cloud services, and can setup, maintain and troubleshoot your AWS cloud infrastructure for bioinformatics, using the most efficient, cost-saving resources."
   },
   {
-    "title": "Data Analysis",
+    "title": "Data Analysis and Visualization",
     "icon": "icon7.svg",
-    "content": "Need help with finding significant mutations in your tumor samples, or discovering differentially expressed genes between your sample cohorts? I can help with sequencing QC, genome alignment, differential expression, gene ontology analysis, single cell analysis, variant calling and much more."
+    "content": "Need help with finding significant mutations in your tumor samples, or discovering differentially expressed genes between your sample cohorts? I can help with sequencing QC, genome alignment, differential expression, single cell analysis, variant calling, data visualization and much more."
   },
   {
-    "title": "Genomic Databases",
+    "title": "Software Development",
     "icon": "icon4.svg",
-    "content": "Need help building a gene expression, variant, or some other genomic database for your samples? With expertise in relational (SQL) and non-relational (NoSQL) databases, I can design your tables and schema, and write automated scripts to handle database import and management of all of your data."
+    "content": "I can help with almost all of your software needs, including website design, frontend development, SQL and NoSQL databases, REST APIs, and code management. I am well-versed in Python and Javascript and have built the entire tech stack for several biotech companies."
   }
 ]
